@@ -1,0 +1,21 @@
+{
+  "name": "dark-extended",
+  "displayName": "Dark Extended",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Extended",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-extended-color-theme.json"
+      }
+    ]
+  }
+}
